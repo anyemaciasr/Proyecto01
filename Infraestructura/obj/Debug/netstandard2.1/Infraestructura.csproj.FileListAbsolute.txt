@@ -1,0 +1,11 @@
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\bin\Debug\netstandard2.1\Infraestructura.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\bin\Debug\netstandard2.1\Infraestructura.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\bin\Debug\netstandard2.1\Infraestructura.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\bin\Debug\netstandard2.1\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\bin\Debug\netstandard2.1\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Infraestructura\obj\Debug\netstandard2.1\Infraestructura.pdb

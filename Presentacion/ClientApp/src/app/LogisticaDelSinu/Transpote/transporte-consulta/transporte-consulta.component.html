@@ -1,0 +1,50 @@
+<div class="row">
+  <div class="col-6">
+    <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Buscar Transporte">
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header card-header-primary">
+        <h4 class="card-title ">Transporte registrados</h4>
+        <p class="card-category"> Informacion del Transporte </p>
+      </div>
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table">
+            <thead class=" text-primary">
+              <th scope="row">#</th>
+              <th>Nit</th>
+              <th>Nombre</th>
+              <th>Pais</th>
+              <th>Ciudad</th>
+              <th>Direccion</th>
+              <th>Barrio</th>
+              <th>Telefono</th>
+              <th>Correo electronico</th>
+              <th>Sitio web</th>
+              <th>Accion</th>
+            </thead>
+            <tbody>
+              <tr *ngFor='let transporte of transportes|filtroTransporte:searchText; index as i'>
+                <th scope="row">{{i+1}}</th>
+                <td>{{transporte.nit}}</td>
+                <td>{{transporte.nombre}} </td>
+                <td>{{transporte.pais}} </td>
+                <td>{{transporte.ciudad}}</td>
+                <td>{{transporte.direccion}}</td>
+                <td>{{transporte.barrio}}</td>
+                <td>{{transporte.telefono}}</td>
+                <td>{{transporte.correoElectronico}}</td>
+                <td>{{transporte.sitioWeb}}</td>
+                <td><button routerLink='/TrasporteActualizar/{{transporte.nit}}' type="button" class="btn btn-primary">Editar</button></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,66 @@
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Datos\obj\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Datos\obj\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Datos\obj\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.0\Datos.pdb

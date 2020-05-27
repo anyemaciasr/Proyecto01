@@ -1,0 +1,81 @@
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+img{
+  width: 40px;
+}
+.sidebar a{
+  color:rgb(254, 255, 255)
+}
+.sidebar .sidebar-wrapper .material-icons{
+  color:rgb(254, 255, 255);
+}
+.sidebar{
+  background-color: #006BA0;
+}
+.sidebar-wrapper p{
+  
+  color:rgb(254, 255, 255)
+}
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+#SubHoteles, #SubUsuario, #SubRestaurantes, #SubTransporte {
+  border-radius: 10px;
+  padding-left: 15px;
+}
+
+#SubHoteles ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: rgb(40, 126, 168 );
+}
+a[data-toggle="collapse"] {
+  position: relative;
+}
+
+#main-panel{
+  box-shadow: rgb(0, 0, 0);
+  background-color: #E4E4E4 !important;
+}
+
+#login{
+  color: black;
+  margin-right: 10px;
+  text-decoration:none;
+}
+
+#registroBtn{
+  color: white;
+  font-style: italic;
+  background-color: #9F1416;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 16px;
+  text-decoration:none;
+  
+}
+
+
+#registroBtn:hover{
+  color: white;
+  font-style: italic;
+  background-color: rgb(141, 1, 4);
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 16px;
+  text-decoration:none;
+  
+}

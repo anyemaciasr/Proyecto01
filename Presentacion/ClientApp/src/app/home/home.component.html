@@ -1,0 +1,246 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm" ALIGN="justify">
+      <p>
+        <FONT FACE="Roboto Helvetica Arial sans-serif" FONT size="9">Logistica Educativa del Sinú.
+        </FONT>
+        <p>
+          <FONT FACE="Roboto Helvetica Arial sans-serif" FONT COLOR=#030935 FONT size="6">¿QUÍENES SOMOS?</FONT>
+          <p>
+            <FONT FACE="Roboto Helvetica Arial sans-serif" FONT-weight:300 class="parrafos">
+              Somos una organización dedicada a planificar y ejecutar actividades relacionadas
+              con montaje de talleres, congresos, seminarios, movilidades académicas y todo lo
+              relacionados con el desarrollo de actividades extracurriculares.
+            </FONT>
+
+            <p>
+              <FONT FACE="Roboto Helvetica Arial sans-serif" class="parrafos">
+                Nuestro principal servicio es la organización de movilidades académicas nacional e
+                Internacional, entiéndase movilidad académica como ese viaje especializado que
+                tiene un alto contenido educativo, para complementar lo visto en el aula de clases
+                y que a través de la experiencia con el mundo exterior, es una oportunidad que sirve
+                para explorar de primera mano con sitios previamente elegidos un ambiente de aprendizaje.
+              </FONT>
+    </div>
+    <div class="col-sm">
+      <img class="img-fluid rounded" src="../../assets/inicio01 (2).jpg">
+    </div>
+
+  </div>
+  <hr>
+  <br><br><br>
+  <div class="row">
+    <div class="col-sm" ALIGN="justify">
+      <p class="text-center">
+        <FONT FACE="Roboto Helvetica Arial sans-serif" FONT COLOR=#030935 FONT size="6">¿A que nos dedicamos?</FONT>
+        <p>
+          <FONT FACE="Roboto Helvetica Arial sans-serif" FONT-weight="300" class="parrafos">Logística Educativa del Sinú
+            es una
+            organización dedicada a prestar servicios para la planeación y ejecución de
+            actividades académicas como talleres, congresos, seminarios, movilidades y todo lo relacionados con
+            el desarrollo de actividades extracurriculares que favorezcan el aprendizaje a través de la experiencia.
+          </FONT>
+
+    </div>
+    
+  </div>
+  <br><br><br>
+  <div class="container">
+    <div>
+      <p class="text-center">
+        <FONT FACE="Roboto Helvetica Arial sans-serif" FONT COLOR=#030935 FONT size="6">
+          Nuestros Servicios.
+        </FONT>
+    </div>
+
+  </div>
+<hr>
+  <div class="content">
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-md-3">
+          <div class="card card-chart">
+            <div class="card-header card-header-warning">
+              <a href="#" data-toggle="modal" data-target="#infoSeminarios">
+                <img class="img-fluid rounded" src="../../assets/seminario1.jpg">
+              </a>
+            </div>
+            <div class="card-body">
+              <h4 class="card-title">Seminarios</h4>
+              <p class="card-category" *ngIf="showSeminarios">Se realiza la planeación y ejecución de seminarios para
+                todas
+                las áreas de formación.
+            </div>
+            <div class="card-footer ">
+              <button class="btn_card" (click)="showSeminarios=!showSeminarios">Saber mas</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modals Seminarios -->
+        <div class="modal fade" id="infoSeminarios" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+          aria-hidden="true">
+          <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Informacion del servicio</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <img class="img-fluid rounded" src="../../assets/seminario1.jpg">
+                <h5 class="modal-title" id="exampleModalLabel">
+                  Seminarios
+                </h5>
+                Se realiza la planeación y ejecución de seminarios para todas las áreas de formación.
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary">Solicitar servicio</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="card card-chart">
+            <div class="card-header card-header-warning">
+              <a href="#" data-toggle="modal" data-target="#infoTalleres">
+                <img class="img-fluid rounded" src="../../assets/taller.jpg">
+              </a>
+
+            </div>
+            <div class="card-body">
+              <h4 class="card-title">Talleres</h4>
+              <p class="card-category" *ngIf="showTalleres">Préstamos el servicio de montaje y ejecución de
+                talleres teóricos y prácticos.
+            </div>
+            <div class="card-footer">
+              <button class="btn_card" (click)="showTalleres=!showTalleres">Saber mas</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modals Talleres -->
+        <div class="modal fade" id="infoTalleres" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+          aria-hidden="true">
+          <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Informacion del servicio</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <img class="img-fluid rounded" src="../../assets/taller.jpg">
+                <h5 class="modal-title" id="exampleModalLabel">
+                  Talleres
+                </h5>
+                Préstamos el servicio de montaje y ejecución de
+                talleres teóricos y prácticos.
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary">Solicitar servicio</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="card card-chart">
+            <div class="card-header card-header-warning">
+              <a href="#" data-toggle="modal" data-target="#infoCongresos">
+                <img class="img-fluid rounded" src="../../assets/congreso1.jpg">
+              </a>
+            </div>
+            <div class="card-body">
+              <h4 class="card-title">Congresos</h4>
+              <p class="card-category" *ngIf="showCongresos">Planeamos y ejecutamos congresos con ponentes nacionales e
+                internacionales en todas las áreas de formación.
+            </div>
+            <div class="card-footer">
+              <button class="btn_card" (click)="showCongresos=!showCongresos">Saber mas</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modals Congresos -->
+        <div class="modal fade" id="infoCongresos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+          aria-hidden="true">
+          <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Informacion del servicio</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <img class="img-fluid rounded" src="../../assets/congreso1.jpg">
+                <h5 class="modal-title" id="exampleModalLabel">Congresos</h5>
+                Planeamos y ejecutamos congresos con ponentes nacionales e
+                internacionales en todas las áreas de formación.
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary">Solicitar servicio</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="card card-chart">
+            <div class="card-header card-header-warning">
+              <a href="#" data-toggle="modal" data-target="#infoMovilidad">
+                <img class="img-fluid rounded" src="../../assets/movilidad.jpg">
+              </a>
+            </div>
+            <div class="card-body">
+              <h4 class="card-title">Movilidades Académicas</h4>
+
+              <p class="card-category" *ngIf="showMovilidad">Ofrecemos servicios todo incluido para la realización
+                de misiones académicas, así mismo planeamos las visitas técnicas según su requerimiento. <br>
+                Todo esto lo tenemos tanto como<br>
+                nacionales internacionales
+            </div>
+            <div class="card-footer">
+              <button class="btn_card" (click)="showMovilidad=!showMovilidad">Saber mas</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modals Movilidad academica -->
+        <div class="modal fade" id="infoMovilidad" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+          aria-hidden="true">
+          <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Informacion del servicio</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <img class="img-fluid rounded" src="../../assets/movilidad.jpg">
+                <h5 class="modal-title" id="exampleModalLabel">Movilidades Académicas nacionales e internacionales</h5>
+                Ofrecemos servicios todo incluido para la realización de misiones académicas,
+                así mismo planeamos las visitas técnicas según su requerimiento
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary">Solicitar servicio</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,11 @@
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Datos\obj\Debug\netstandard2.1\Datos.pdb

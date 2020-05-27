@@ -1,0 +1,45 @@
+/*#contenedor{
+    width: 800px;
+    margin: auto;
+    max-width: 100%;
+    padding: 20px;
+}
+
+#labelApellidos{
+    margin-top: 14px;
+}
+
+#labelCelular{
+    margin-top: 14px;
+}
+
+#icono{
+    font-size: 26px;
+    
+}
+
+#text-info{
+    margin-left: 10px;
+    
+}
+
+#titulo-registro{
+    color: rgb(0, 107, 160);
+}*/
+
+#btn-registro:hover{
+    background-color: rgb(159, 20, 22);
+}
+
+#btn-registro{
+  background-color: rgb(159, 20, 22);
+  color: aliceblue;
+}
+#btn-cancelar{
+    background-color: rgb(159, 20, 22);
+    color: aliceblue;
+}
+#btn-cancelar:hover{
+    background-color: rgb(159, 20, 22);
+}
+

@@ -1,0 +1,86 @@
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Logica\obj\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\obj\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logica\bin\Debug\netstandard2.0\Infraestructura.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Infraestructura.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Logistica-del-sinu\Logica\obj\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Logica.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Infraestructura.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\bin\Debug\netstandard2.0\Infraestructura.pdb
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.dll
+A:\Escritorio\Proyecto Programacion web\Logistica-del-sinu-master\Logica\obj\Debug\netstandard2.0\Logica.pdb
